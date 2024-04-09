@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ActividadApi.MainPage">
+
+    <ListView x:Name="listaTodos" Margin="10">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <TextCell
+                 Text="{Binding title}" Detail="{Binding status}">
+                </TextCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>

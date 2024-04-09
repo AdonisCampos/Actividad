@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CDS2\\Desktop\\Actividad\\ACTIVIDAD1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8649D7-AFA7-4265-B5DB-439934D2176A}|ACTIVIDAD1\\ACTIVIDAD1.csproj|c:\\users\\cds2\\desktop\\actividad\\actividad1\\actividad1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8649D7-AFA7-4265-B5DB-439934D2176A}|ACTIVIDAD1\\ACTIVIDAD1.csproj|solutionrelative:actividad1\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B125E374-81EB-4FAA-92FF-D259486BBA7C}|ACTIVIDAD1.Android\\ACTIVIDAD1.Android.csproj|c:\\users\\cds2\\desktop\\actividad\\actividad1\\actividad1.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B125E374-81EB-4FAA-92FF-D259486BBA7C}|ACTIVIDAD1.Android\\ACTIVIDAD1.Android.csproj|solutionrelative:actividad1.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B125E374-81EB-4FAA-92FF-D259486BBA7C}|ACTIVIDAD1.Android\\ACTIVIDAD1.Android.csproj|c:\\users\\cds2\\desktop\\actividad\\actividad1\\actividad1.android\\resources\\xml\\network_security_config.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B125E374-81EB-4FAA-92FF-D259486BBA7C}|ACTIVIDAD1.Android\\ACTIVIDAD1.Android.csproj|solutionrelative:actividad1.android\\resources\\xml\\network_security_config.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8649D7-AFA7-4265-B5DB-439934D2176A}|ACTIVIDAD1\\ACTIVIDAD1.csproj|c:\\users\\cds2\\desktop\\actividad\\actividad1\\actividad1\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{0C8649D7-AFA7-4265-B5DB-439934D2176A}|ACTIVIDAD1\\ACTIVIDAD1.csproj|solutionrelative:actividad1\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\CDS2\\Desktop\\Actividad\\ACTIVIDAD1\\ACTIVIDAD1.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "ACTIVIDAD1.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\CDS2\\Desktop\\Actividad\\ACTIVIDAD1\\ACTIVIDAD1.Android\\MainActivity.cs",
+              "RelativeToolTip": "ACTIVIDAD1.Android\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:39:00.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "network_security_config.xml",
+              "DocumentMoniker": "C:\\Users\\CDS2\\Desktop\\Actividad\\ACTIVIDAD1\\ACTIVIDAD1.Android\\Resources\\xml\\network_security_config.xml",
+              "RelativeDocumentMoniker": "ACTIVIDAD1.Android\\Resources\\xml\\network_security_config.xml",
+              "ToolTip": "C:\\Users\\CDS2\\Desktop\\Actividad\\ACTIVIDAD1\\ACTIVIDAD1.Android\\Resources\\xml\\network_security_config.xml",
+              "RelativeToolTip": "ACTIVIDAD1.Android\\Resources\\xml\\network_security_config.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-04-05T16:31:44.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\CDS2\\Desktop\\Actividad\\ACTIVIDAD1\\ACTIVIDAD1\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ACTIVIDAD1\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\CDS2\\Desktop\\Actividad\\ACTIVIDAD1\\ACTIVIDAD1\\MainPage.xaml",
+              "RelativeToolTip": "ACTIVIDAD1\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T16:07:44.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\CDS2\\Desktop\\Actividad\\ACTIVIDAD1\\ACTIVIDAD1\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ACTIVIDAD1\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\CDS2\\Desktop\\Actividad\\ACTIVIDAD1\\ACTIVIDAD1\\MainPage.xaml.cs",
+              "RelativeToolTip": "ACTIVIDAD1\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBYAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T16:01:19.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

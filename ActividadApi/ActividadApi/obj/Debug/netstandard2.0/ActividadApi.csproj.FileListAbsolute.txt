@@ -1,0 +1,15 @@
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\bin\Debug\netstandard2.0\ActividadApi.deps.json
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\bin\Debug\netstandard2.0\ActividadApi.dll
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\bin\Debug\netstandard2.0\ref\ActividadApi.dll
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\bin\Debug\netstandard2.0\ActividadApi.pdb
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\obj\Debug\netstandard2.0\ActividadApi.csproj.AssemblyReference.cache
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\obj\Debug\netstandard2.0\ActividadApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\obj\Debug\netstandard2.0\ActividadApi.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\obj\Debug\netstandard2.0\ActividadApi.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\obj\Debug\netstandard2.0\ActividadApi.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\obj\Debug\netstandard2.0\ActividadApi.dll
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\obj\Debug\netstandard2.0\refint\ActividadApi.dll
+C:\Users\berna\OneDrive\Escritorio\ActividadApi\ActividadApi\obj\Debug\netstandard2.0\ActividadApi.pdb

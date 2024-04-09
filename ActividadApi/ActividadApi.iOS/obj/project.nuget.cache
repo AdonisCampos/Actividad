@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+TTf7QTReViRmz8vszhpydfXBWTPkL18mCnCjU6qzGQ9IZ3cB1owxUn6ZBzhH8dq04jEWNbOD1qmwbr+HrBwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berna\\OneDrive\\Escritorio\\ActividadApi\\ActividadApi.iOS\\ActividadApi.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berna\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\berna\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
